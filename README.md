@@ -2,7 +2,7 @@
 
 **Don't demo that your agent works. Prove that it fails safely.**
 
-Graph Quest is a free interactive learning game about **Atlassian Rovo agents, Teamwork Graph and safe enterprise AI**.
+Graph Quest is an independent, free interactive learning game exploring enterprise AI safety through scenarios involving Atlassian Rovo, Teamwork Graph, Forge and related technologies.
 
 You join a fictional company that has just switched on Rovo.
 
@@ -52,11 +52,11 @@ Different attack surface. 😈
 
 ## Disclaimer
 
-Graph Quest is an independent educational project.
-
-It is not an official Atlassian product and is not affiliated with or endorsed by Atlassian.
-
-Atlassian, Rovo, Jira, Confluence, Forge and related product names are trademarks of Atlassian and/or its affiliates.
+Graph Quest is an independent educational project created by Tiziana Marchionni.
+It is not an Atlassian product and is not affiliated with, sponsored by, or endorsed by Atlassian.
+References to Atlassian products, services and events are provided solely for identification, commentary and educational purposes.
+Atlassian, Rovo, Jira, Jira Service Management, Confluence, Forge, Loom and related names and marks are trademarks of Atlassian and/or its affiliates. All rights in those marks belong to their respective owners.
+All opinions, interpretations, recommendations and fictional scenarios presented in Graph Quest and How to Survive Rovo Agents are those of the author and should not be interpreted as official Atlassian guidance.
 
 ## Copyright
 
