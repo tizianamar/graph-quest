@@ -26,16 +26,22 @@ you may not:
   the game or guide.
 - Sell, license, sublicense, or commercially exploit the project or
   its original content.
-- Publish modified or substantially similar versions of the project's
+- Publish copies, adaptations, or close imitations of the original expression in Graph Quest or How to Survive Rovo Agents, including its text, questions, illustrations, character names and designs, and code.
   original characters, narrative, questions, scenarios, written
   content, visual identity, or learning materials as your own.
 - Use the source code or original content to create or distribute a
   competing or derivative version of Graph Quest.
 
+IDEAS AND PRACTICES
+
+This license does not restrict the underlying engineering ideas, methods, or practices discussed in the project, such as permission testing, evaluations, least privilege, human checkpoints, or autonomy boundaries. You are free to apply these ideas and practices in your own work.
+
 NO OPEN-SOURCE LICENSE
 
 Making this repository publicly accessible does not grant an
 open-source license.
+
+GitHub exception: Making this repository public on GitHub grants GitHub users the limited rights required by GitHub's Terms of Service, including the ability to view and fork the repository within GitHub. No additional copyright license is granted by this provision, and copies or forks remain subject to this license.
 
 Except for the limited permissions expressly stated above, no rights
 are granted to the source code, game content, guide, characters,
