@@ -1,0 +1,9 @@
+Atkinson Hyperlegible
+© 2020 Braille Institute of America, Inc., a 501(c)(3) Charitable Organization.
+
+Licence (as embedded in the font files):
+"Braille Institute of America, Inc. provides Atkinson Hyperlegible for use, without derivatives or alteration, to the public free of charge for all non-commercial and commercial work. No attribution required."
+
+https://www.BrailleInstitute.org/
+
+The files in this folder are the unmodified WOFF2 web fonts from the official Braille Institute download (Atkinson-Hyperlegible-Font-Print-and-Web-2020-0514).
