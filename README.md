@@ -58,6 +58,8 @@ References to Atlassian products, services and events are provided solely for id
 Atlassian, Rovo, Jira, Jira Service Management, Confluence, Forge, Loom and related names and marks are trademarks of Atlassian and/or its affiliates. All rights in those marks belong to their respective owners.
 All opinions, interpretations, recommendations and fictional scenarios presented in Graph Quest and How to Survive Rovo Agents are those of the author and should not be interpreted as official Atlassian guidance.
 
+Graph Quest and How to Survive Rovo Agents are based on publicly available information and the author's own professional experience. They do not contain confidential or proprietary information from any current or former employer or client.
+
 ## Copyright
 
 © 2026 Tiziana Marchionni. All rights reserved.
